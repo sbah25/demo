@@ -1,1 +1,5 @@
-This is the file on master
+<<<<<<< HEAD
+This is for changes
+=======
+This for changes
+>>>>>>> b1
